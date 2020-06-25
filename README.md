@@ -1,5 +1,7 @@
 # Criminal Record Search Engine Web Application (CAB230 Web Computing Assignment)
 
+## Note: Check report for UI snapshots
+
 ## Objectives:
 - Introduce you to full web application development – both client and server side 
 - Provide experience in querying REST APIs and manipulating the results
@@ -34,6 +36,7 @@ Having  created  a  working  application  deployed  via  HTTP,  you  should  mig
 
 #### Step 4:
 Final deployment of your system prior to assessment.
+
 
 
 
